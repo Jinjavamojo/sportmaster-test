@@ -1,0 +1,24 @@
+[
+  {
+    "type" : "entity",
+    "tag": "strong"
+  },
+  {
+    "type" : "twitter_username",
+    "tag": "a",
+    "attributes" : [
+      {
+        "name" : "href"
+      }
+    ]
+  },
+  {
+    "type" : "link",
+    "tag": "a",
+    "attributes" : [
+      {
+        "name" : "href"
+      }
+    ]
+  }
+]

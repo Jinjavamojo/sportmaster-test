@@ -1,0 +1,26 @@
+
+{
+  "inputStr": "Obama visited Facebook headquaters: http://bit.ly/xyz @elversatile",
+  "data": [
+    {
+      "startPos": 0,
+      "endPos": 5,
+      "type": "entity"
+    },
+    {
+      "startPos": 14,
+      "endPos": 22,
+      "type": "entity"
+    },
+    {
+      "startPos": 36,
+      "endPos": 53,
+      "type": "link"
+    },
+    {
+      "startPos": 55,
+      "endPos": 66,
+      "type": "twitter_username"
+    }
+  ]
+}

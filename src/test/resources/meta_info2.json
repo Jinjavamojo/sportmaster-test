@@ -1,0 +1,31 @@
+[
+  {
+    "type" : "entity",
+    "tag": "div"
+  },
+  {
+    "type" : "custom",
+    "tag" : "custom"
+  },
+  {
+    "type" : "twitter_username",
+    "tag": "a",
+    "attributes" : [
+      {
+        "name" : "href"
+      },
+      {
+        "name" : "class"
+      }
+    ]
+  },
+  {
+    "type" : "link",
+    "tag": "a",
+    "attributes" : [
+      {
+        "name" : "href"
+      }
+    ]
+  }
+]

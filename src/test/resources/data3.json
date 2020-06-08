@@ -1,0 +1,25 @@
+{
+  "inputStr": "word1 Obama visited Facebook headquaters: http://bit.ly/xyz @elversatile",
+  "data": [
+    {
+      "startPos": 6,
+      "endPos": 11,
+      "type": "entity"
+    },
+    {
+      "startPos": 20,
+      "endPos": 28,
+      "type": "entity"
+    },
+    {
+      "startPos": 42,
+      "endPos": 59,
+      "type": "link"
+    },
+    {
+      "startPos": 61,
+      "endPos": 72,
+      "type": "twitter_username"
+    }
+  ]
+}
