@@ -1,4 +1,4 @@
-###### String tag formatter
+### String tag formatter
 
 input  -> path to data_file.json, path to meta_file.json<br/>
 output -> formatted string<br/>
